@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Contacto de Prueba
+N:Prueba;Contacto;;;
+ORG:Negocio de Prueba
+TEL;TYPE=CELL:+525500000000
+EMAIL:prueba@example.com
+END:VCARD
